@@ -1,0 +1,1 @@
+{{ $form['mail_text'] }}
