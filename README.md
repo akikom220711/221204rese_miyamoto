@@ -6,7 +6,7 @@
 - 機能や画面がシンプルでより使い勝手の良い予約サービスを自社で持ちたいという依頼があったため。<br><br>
 
 ## アプリケーションURL
-https://github.com/akikom220711/221204rese.git<br><br>
+https://github.com/akikom220711/221204rese_miyamoto.git<br><br>
 
 ## 機能一覧
 ### 一般ユーザー用
